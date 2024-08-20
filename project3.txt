@@ -1,0 +1,3 @@
+Tool Links: 
+1- https://huggingface.co/spaces/finegrain/finegrain-object-eraser 
+2- https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint 
