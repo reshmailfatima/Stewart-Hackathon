@@ -1,3 +1,17 @@
 Tool Links: 
 1- https://huggingface.co/spaces/finegrain/finegrain-object-eraser 
 2- https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Description:**
+
+**Object Eraser Powered By Refiners** is an advanced image editing tool that enables users to effortlessly remove any object from an image by simply naming it or drawing a bounding box around it. The tool intelligently erases the object and fills in the background, ensuring that any associated effects like shadows or reflections are also removed, resulting in a natural and visually appealing outcome.
+
+**Use Case:**
+
+**Scenario:** A photographer needs to remove a distracting element from a high-profile photo shoot.
+
+**Solution:** The photographer uses the **Object Eraser Powered By Refiners** tool to quickly and accurately remove a trash can from the background of a stunning outdoor portrait. The tool seamlessly fills in the background, enhancing the overall composition without the need for time-consuming manual editing.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
